@@ -1,15 +1,17 @@
 # 👋 Hey, I'm Viswas Vinayakumar
 
-**Developer | Problem Solver | Fitness Enthusiast**  
+**Developer | AI & ML Enthusiast**  
 📍 Coimbatore, India  
 
 ---
 
 ## 🚀 About Me  
 
-I'm a Computer Technology graduate with a passion for building clean, efficient, and scalable solutions. From web development to automation, I believe technology should make life simpler and smarter.  
+I’m a Computer Technology grad who loves making ideas come to life with clean, smart code. Whether it’s building websites or automating tasks, I believe technology should make life easier and cooler. 😎
 
-Currently diving into **AI & Machine Learning**, constantly learning how to solve real-world problems through intelligent systems. I thrive on curiosity, discipline, and relentless self-improvement — both in code and life.
+Right now, I’m diving into AI & Machine Learning, exploring how machines can think and solve problems, just like us (but faster and without the coffee). 🤖💻
+
+Curiosity is my fuel, and I’m always striving to get better — both as a developer and as a person. Let’s build something awesome together. 🚀
 
 ---
 
@@ -19,7 +21,7 @@ Currently diving into **AI & Machine Learning**, constantly learning how to solv
 `Deluge` | `HTML` | `CSS`  
 
 **Currently Learning:**  
-`Python` | `MySQL` | `JavaScript` | `PHP` | `AI-ML`  
+`Python` | `MySQL` | `PHP` | `AI-ML`  
 
 **Tools & Platforms:**  
 `Git & GitHub` | `Zoho Creator` | `Canva`
@@ -37,30 +39,6 @@ Currently diving into **AI & Machine Learning**, constantly learning how to solv
 
 ---
 
-## 📈 Projects  
-
-- **Quiz Hub**  
-  Web-based quiz platform with secure role-based login for faculty and students. Recommended for university-wide adoption.
-
-- **Talent Acquisition Tool**  
-  Automated hiring workflow tool that reduced recruitment time by **50%** and eliminated manual errors.
-
-- **YouTube Downloader**  
-  Download videos by pasting the link — supports multiple formats and resolutions.
-
-- **QR Code Generator**  
-  Instantly create QR codes from any provided link via a clean, simple interface.
-
----
-
-## 🎓 Education  
-
-**B.Sc, Computer Technology**  
-*Kongunadu Arts and Science College, Coimbatore (2021–2024)*  
-**CGPA:** 6.7 / 10  
-
----
-
 ## 🏆 Awards & Certifications  
 
 - **Special Recognition Award** – Texila Educare Healthcare & Technology  
@@ -69,16 +47,6 @@ Currently diving into **AI & Machine Learning**, constantly learning how to solv
 - *Cloud Computing Basics* — Academor  
 - *Backend Development (Node.js)* — Devtown Bootcamp  
 
----
-
-## 🧑‍💻 Hobbies & Interests  
-
-- **Fitness & Well-being:** 5-day intense workouts and clean nutrition.
-- **Reading:** Entrepreneurship, philosophy, personal mastery.  
-  *(Favorites: Rich Dad Poor Dad, I Am Krishna, Elon Musk biography)*
-- **Anime & Web Series:** Naruto, Death Note, Breaking Bad.
-
----
 
 ## 📬 Connect With Me  
 
@@ -87,7 +55,6 @@ Currently diving into **AI & Machine Learning**, constantly learning how to solv
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ViswasVinayakumar)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viswasvinayakumar/)
 [![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Vichu_learns)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Viswas-Vinayakumar)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Viswas_Vinayakumar)
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@viswasvinayakumar)
 
