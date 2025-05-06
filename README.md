@@ -1,62 +1,69 @@
-# Hi, I'm Viswa 👋
-
-A passionate **Python developer**, part-time **web developer**, and **fitness trainer** working towards becoming a future **AI & ML Engineer**.
-
----
-
-## 🚀 About Me
-
-- 💻 Beginner to Intermediate Python programmer  
-- 🌐 Front-end skills: **HTML, CSS**  
-- 🛠️ Tools I work with: **VS Code, Git, GitHub, Canva, Zoho Creator**  
-- 👨‍💻 Former **Junior Web Developer**  
-- 🎯 Focused on clean, functional, and purposeful projects — no fluff.
+## 📌 Viswas Vinayakumar  
+**Developer | AI & ML Enthusiast**  
+📍 **Coimbatore, India**  
 
 ---
 
-## 📚 Currently Learning
-
-- 📌 Python (Advanced Concepts & Projects)
-- 📌 Data Structures & Algorithms
-- 📌 AI & Machine Learning Fundamentals  
-- 📌 Web Development (Portfolio & Business Sites)
+### 🚀 About Me  
+I’m a Computer Technology graduate with a passion for creating **clean** and **efficient** solutions. Currently diving deep into **AI & Machine Learning**, aiming to build smarter systems that solve real-world problems. Let's make technology work for you!
 
 ---
 
-## 🛠️ Tools & Tech Stack
+### 🛠️ Skills & Technologies  
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Zoho Creator](https://img.shields.io/badge/-Zoho%20Creator-333333?style=flat)
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+**Languages & Technologies**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
----
-
-## 📌 Projects (Selected)
-
-- 🎨 [Personal Portfolio Website](#)  
-- 🏋️ [Fitness Caste Gym Website](#)  
-- 🐍 [Python Micro Projects](#)  
-- 📓 [DSA Practice Repo](#) (In Progress)
+**Tools & Platforms**  
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)  
+![Zoho Creator](https://img.shields.io/badge/-Zoho%20Creator-2477B4?style=for-the-badge&logo=zoho&logoColor=white)  
 
 ---
 
-## 📈 Stats  
+### 💼 Work Experience  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Viswas-Vinayakumar&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viswas-Vinayakumar&layout=compact&theme=dark)
-
----
-
-## 📬 Connect with Me  
-
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Viswasvinayakumar@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](#)
+**Junior Web Developer**  
+*Texila Educare Healthcare & Technology*  
+- Developed **6+ web apps** using Zoho Creator & Deluge.  
+- Led **4 major projects** and automated the **Talent Acquisition Tool** reducing **recruitment time by 50%**.  
 
 ---
 
-**“Health, Code, and Legacy. That’s the plan.”**
+### 📈 Noteworthy Projects  
+
+- **Quiz Hub**  
+  A web-based quiz platform with role-based logins, recommended for university adoption.
+
+- **Talent Acquisition Tool**  
+  Automated **23-stage hiring process**, reducing manual errors and improving efficiency.
+
+---
+
+### 🎓 Education  
+
+**B.Sc, Computer Technology**  
+*Kongunadu Arts and Science College, Coimbatore*  
+**CGPA:** 6.7/10
+
+---
+
+### 🏆 Certifications  
+
+- **Front-End Development (CSS)** – Great Learning  
+- **Cloud Computing Basics** – Academor  
+- **Backend Development (Node.js)** – Devtown Bootcamp  
+
+---
+
+### 📬 Let's Connect  
+
+[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ViswasVinayakumar@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ViswasVinayakumar)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Viswas-Vinayakumar)  
+
+---
+
+### ⚡ “Tech should make life easier. Let's build smarter solutions.”  
