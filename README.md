@@ -54,6 +54,10 @@ Curiosity is my fuel, and I’m always striving to get better — both as a deve
 
 ---
 
+## 🎯 HackerRank Stats  
+
+![HackerRank](https://www.hackerrank.com/Viswas%20Vinayakumar/badges?theme=dark)
+
 
 
 ## 📬 Connect With Me  
