@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Viswas Vinayakumar
+# 👋 Hey, I'm Viswa
 
 **Developer | AI & ML Enthusiast**  
 📍 Coimbatore, India  
