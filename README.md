@@ -1,69 +1,97 @@
-## 📌 Viswas Vinayakumar  
-**Developer | AI & ML Enthusiast**  
-📍 **Coimbatore, India**  
+# 👋 Hey, I'm Viswas Vinayakumar
+
+**Developer | Problem Solver | Fitness Enthusiast**  
+📍 Coimbatore, India  
 
 ---
 
-### 🚀 About Me  
-I’m a Computer Technology graduate with a passion for creating **clean** and **efficient** solutions. Currently diving deep into **AI & Machine Learning**, aiming to build smarter systems that solve real-world problems. Let's make technology work for you!
+## 🚀 About Me  
+
+I'm a Computer Technology graduate with a passion for building clean, efficient, and scalable solutions. From web development to automation, I believe technology should make life simpler and smarter.  
+
+Currently diving into **AI & Machine Learning**, constantly learning how to solve real-world problems through intelligent systems. I thrive on curiosity, discipline, and relentless self-improvement — both in code and life.
 
 ---
 
-### 🛠️ Skills & Technologies  
+## 🛠️ Skills  
 
-**Languages & Technologies**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+**Technologies:**  
+`Deluge` | `HTML` | `CSS`  
 
-**Tools & Platforms**  
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)  
-![Zoho Creator](https://img.shields.io/badge/-Zoho%20Creator-2477B4?style=for-the-badge&logo=zoho&logoColor=white)  
+**Currently Learning:**  
+`Python` | `MySQL` | `JavaScript` | `PHP` | `AI-ML`  
 
----
-
-### 💼 Work Experience  
-
-**Junior Web Developer**  
-*Texila Educare Healthcare & Technology*  
-- Developed **6+ web apps** using Zoho Creator & Deluge.  
-- Led **4 major projects** and automated the **Talent Acquisition Tool** reducing **recruitment time by 50%**.  
+**Tools & Platforms:**  
+`Git & GitHub` | `Zoho Creator` | `Canva`
 
 ---
 
-### 📈 Noteworthy Projects  
+## 💼 Work Experience  
+
+**Junior Web Developer** (May 2024 – Jan 2025)  
+*Texila Educare Healthcare & Technology*
+
+- Developed **6+ web applications** using Zoho Creator & Deluge.
+- Led **4 major projects** including a **23-stage automated Talent Acquisition Tool**.
+- Recognized with **Special Recognition Award** for outstanding performance.
+
+---
+
+## 📈 Projects  
 
 - **Quiz Hub**  
-  A web-based quiz platform with role-based logins, recommended for university adoption.
+  Web-based quiz platform with secure role-based login for faculty and students. Recommended for university-wide adoption.
 
 - **Talent Acquisition Tool**  
-  Automated **23-stage hiring process**, reducing manual errors and improving efficiency.
+  Automated hiring workflow tool that reduced recruitment time by **50%** and eliminated manual errors.
+
+- **YouTube Downloader**  
+  Download videos by pasting the link — supports multiple formats and resolutions.
+
+- **QR Code Generator**  
+  Instantly create QR codes from any provided link via a clean, simple interface.
 
 ---
 
-### 🎓 Education  
+## 🎓 Education  
 
 **B.Sc, Computer Technology**  
-*Kongunadu Arts and Science College, Coimbatore*  
-**CGPA:** 6.7/10
+*Kongunadu Arts and Science College, Coimbatore (2021–2024)*  
+**CGPA:** 6.7 / 10  
 
 ---
 
-### 🏆 Certifications  
+## 🏆 Awards & Certifications  
 
-- **Front-End Development (CSS)** – Great Learning  
-- **Cloud Computing Basics** – Academor  
-- **Backend Development (Node.js)** – Devtown Bootcamp  
-
----
-
-### 📬 Let's Connect  
-
-[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ViswasVinayakumar@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ViswasVinayakumar)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Viswas-Vinayakumar)  
+- **Special Recognition Award** – Texila Educare Healthcare & Technology  
+- **Recognition Award of the Month** – Texila Educare  
+- *Front-End Development (CSS)* — Great Learning  
+- *Cloud Computing Basics* — Academor  
+- *Backend Development (Node.js)* — Devtown Bootcamp  
 
 ---
 
-### ⚡ “Tech should make life easier. Let's build smarter solutions.”  
+## 🧑‍💻 Hobbies & Interests  
+
+- **Fitness & Well-being:** 5-day intense workouts and clean nutrition.
+- **Reading:** Entrepreneurship, philosophy, personal mastery.  
+  *(Favorites: Rich Dad Poor Dad, I Am Krishna, Elon Musk biography)*
+- **Anime & Web Series:** Naruto, Death Note, Breaking Bad.
+
+---
+
+## 📬 Connect With Me  
+
+[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ViswasVinayakumar@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919344210925)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ViswasVinayakumar)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viswasvinayakumar/)
+[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Vichu_learns)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Viswas-Vinayakumar)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Viswas_Vinayakumar)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@viswasvinayakumar)
+
+---
+
+### ⚡ “Discipline, Curiosity, and Relentless Growth. Code it. Live it.”
+
