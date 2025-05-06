@@ -45,7 +45,15 @@ Curiosity is my fuel, and I’m always striving to get better — both as a deve
 - **Recognition Award of the Month** – Texila Educare  
 - *Front-End Development (CSS)* — Great Learning  
 - *Cloud Computing Basics* — Academor  
-- *Backend Development (Node.js)* — Devtown Bootcamp  
+- *Backend Development (Node.js)* — Devtown Bootcamp
+
+## 📈 Stats  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+---
+
 
 
 ## 📬 Connect With Me  
