@@ -52,6 +52,9 @@ Curiosity is my fuel, and I’m always striving to get better — both as a deve
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Viswas%20Vinayakumar)
+
+
 ---
 
 ## 📬 Connect With Me  
