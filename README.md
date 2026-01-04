@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 - 🎓 MSc Data Science @ Germany | BSc Computer Tech  
 - 💡 On the path to becoming an **AI/ML Engineer**  
-- 🏋️ Training body & mind for discipline (2+ yrs gym)  
+- 🏋️ Training body & mind for discipline (3+ yrs gym)  
 - 🌍 Dream: **Build tech empire + settle in Switzerland**  
 
 ---
